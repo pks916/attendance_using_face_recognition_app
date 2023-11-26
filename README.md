@@ -18,8 +18,9 @@ A dedicated button allows administrators to add users to the attendance database
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS
 - **Backend:** Flask (Python)
+- **Deep Learning:** Face Recognition
 
 ## Getting Started
 
@@ -52,9 +53,6 @@ To run the live attendance system locally, follow these steps:
 3. Use the "Stop" button to end the attendance session.
 4. To add users to the database, click on the "Add Users" button and provide the necessary details.
 
-## Contributing
-
-Feel free to contribute to the project by opening issues or submitting pull requests. Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
